@@ -4,9 +4,10 @@
 To be completed in the last module of the semester.
 
 ### Information System Components
-
+In terms of an amazon purchase made online many components of information systems are utilized. FIrst a customer opens their laptop and presses the power button which is the hardware of the computer. Then the customer logs on to the Amazon website Which has the software that has the order entry website collects ordering information from the customer and collects data into a database. People like data processors, order delivery, order fulfillment, use the data to deliver the product to the customers.The process is the order entry to the delivery of the product and all the data storage in between.
 ### Software
 #### GitHub
+While working with GitHub we login and the person logging in is the client while where you are logging into the central computer is the server. There is a lot of information being stored within GitHub that is not stored on a local computer which makes accessing the data more mobile since many devices can utilize it this is known as cloud computing.
 #### Screen Capture
 #### Application, Utility, and Operating Systems
 #### ERP
