@@ -9,6 +9,7 @@ In terms of an amazon purchase made online many components of information system
 #### GitHub
 While working with GitHub we login and the person logging in is the client while where you are logging into the central computer is the server. There is a lot of information being stored within GitHub that is not stored on a local computer which makes accessing the data more mobile since many devices can utilize it this is known as cloud computing.
 #### Screen Capture
+For screen capture I used the snipping tool and it allowed me to save a photo of my desktop and created a png file the png file was 79.1KB. I used the snipping tool on my windows 10 laptop. 
 #### Application, Utility, and Operating Systems
 #### ERP
 #### Virtualization
