@@ -27,10 +27,15 @@ Python is easy to learn and easy to use programming language that allows people 
 
 ### Career Exploration
 #### Bureau of Labor Statistics
+I would like to be a compliance oficer the median salery is 71000 dollars a year it requires a bachelors degree and it is growing field.
 #### Handshake
+It it was a bit of work to set up but it seems like an interesting website to navigate and see avalible positions.
 #### Certifications, Certificates, and Degrees
+Cybersecurity Analyst (CySA+) is an IT workforce certification that applies behavioral analytics to networks and devices to prevent, detect and combat cybersecurity threats through continuous security monitoring. 
+Cisco Certifications are the list of the Certifications offered by Cisco Systems. Earning the CISSP proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program.
+computer networking seems kind of interesting to me.
 #### Industry Associations and Student Organizations
-
+he mission of the Collegiate Cyber Defense Competition (CCDC) system is to provide institutions with an information assurance or computer security curriculum a controlled, competitive environment to assess their student's depth of understanding and operational competency in managing the challenges inherent in protecting a corporate network infrastructure and business information systems.A membership here would be benifical so I could network to like-minded people.
 ### Computer Architecture
 #### CPU
 #### Gates and Circuits
