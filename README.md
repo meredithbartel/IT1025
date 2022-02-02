@@ -38,8 +38,12 @@ computer networking seems kind of interesting to me.
 he mission of the Collegiate Cyber Defense Competition (CCDC) system is to provide institutions with an information assurance or computer security curriculum a controlled, competitive environment to assess their student's depth of understanding and operational competency in managing the challenges inherent in protecting a corporate network infrastructure and business information systems.A membership here would be benifical so I could network to like-minded people.
 ### Computer Architecture
 #### CPU
+The CPU is the central processing unit or the controller of the computer; it receives commands from the RAM and executes them. The CPU then signals the ALU Arithmetic Logic unit Which performs the mathematical additions or the comparison flags. After the calculations are made the ALU sands the information back to the CPU via the bus to process the next instruction. 
+When purchasing an object at the self check out line a user run the barcode across the scanner where the data is input into the CPU. THe CPU stores the data into memory and received instructions such as adding sales tax credit card information and other internal processes. Then it outputs data to the screen to let the customer know how much they owe. Then the CPU signals the printer to print a receipt. 
 #### Gates and Circuits
+The truth tables basically accept two inputs and outputs one answer. For example an and gate requires both inputs to be one to produce a one on the output. An And gate produces more zeros as the output, whereas the OR gate if either one of the inputs is a one the outputs will also be a one. The OR gate is more likely to produce a one. 
 #### IEEE
+IEEE is an organization for people in STEM fields such as engineers and programers where people can join this organization and IEEE is dedicated to advancing technology and expect a high degree of professionalism IEEE takes its code of ethics seriously and wants people to adhere or report ethical problems to the company. 
 #### Storage
 #### Memory
 #### Data Representation
