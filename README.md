@@ -20,7 +20,8 @@ ERP is defined as  an enterprise resource planning and is software that brings t
 Virtualization is the process of using software to simulate a computer or some other device. Virtualization solves a problem by reducing the amount of hardware needed by a company. hypervisors separate the physical resource from virtual environments by allowing multiple users to be on the same computer.
 #### Python
 Python is easy to learn and easy to use programming language that allows people to focus on coding and not worry about syntax errors. What a program is compiled it is taking the program down to machine machine language and finds syntax errors at compiled time whereas where as python interprets it at runtime making it more portable 
-
+Python1.jpg a python program that prints hello Meredith
+Python2.jpg this program adds two variables together and sums them and then prints them along with my name.
 #### Graphic Modeling and Rendering
 #### File Compression
 #### Artificial Intelligence
