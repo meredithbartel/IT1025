@@ -53,6 +53,10 @@ The Difference between SSD  (solid-state disks) and a traditional hard drive is 
 Increasing speed of RAM impacts the computing speed the computer Can transfer more data to the CPU quicker. The more RAM the more data the computer can hold in the short-term memory and not rely on the hard drive to retrieve the data slowly.
 Hard disk storage can hold lots of data whereas RAM holds less data but can  retrieve and send data quicker to the CPU.
 #### Data Representation
+decimal- base ten each positiom hold 0 to 9 charachters. 
+bianary- base 2 each position holds either a zero or a one and each position after theat is two to the power of the other number.
+hexadecimal- base 16 each position holds from 0 to F characters. each position after is 16 to the power.
+3DecimalConversion.png it is a file that converts a decimal 198 to bianary.
 #### Operating Systems
 
 ### Networking
