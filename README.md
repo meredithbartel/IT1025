@@ -46,7 +46,12 @@ The truth tables basically accept two inputs and outputs one answer. For example
 #### IEEE
 IEEE is an organization for people in STEM fields such as engineers and programers where people can join this organization and IEEE is dedicated to advancing technology and expect a high degree of professionalism IEEE takes its code of ethics seriously and wants people to adhere or report ethical problems to the company. 
 #### Storage
+Access time is the time between the data that is requested by the system and the time the data was available by the system.
+Transfer rate is measured by how long the data takes to move off the disk
+The Difference between SSD  (solid-state disks) and a traditional hard drive is that SSD does not have moving parts to it and  it is much faster to access the data, traditional drives are more prone to fail because of the moving parts .
 #### Memory
+Increasing speed of RAM impacts the computing speed the computer Can transfer more data to the CPU quicker. The more RAM the more data the computer can hold in the short-term memory and not rely on the hard drive to retrieve the data slowly.
+Hard disk storage can hold lots of data whereas RAM holds less data but can  retrieve and send data quicker to the CPU.
 #### Data Representation
 #### Operating Systems
 
