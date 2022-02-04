@@ -57,6 +57,7 @@ decimal- base ten each positiom hold 0 to 9 charachters.
 bianary- base 2 each position holds either a zero or a one and each position after theat is two to the power of the other number.
 hexadecimal- base 16 each position holds from 0 to F characters. each position after is 16 to the power.
 3DecimalConversion.png it is a file that converts a decimal 198 to bianary.
+4BinaryConversion.png it is a file that converts bianary to a number.
 #### Operating Systems
 
 ### Networking
