@@ -14,6 +14,8 @@ For screen capture I used the snipping tool and it allowed me to save a photo of
 Application of software such as excel, Word, Visio that has a specific function that helps solve a task.
 Utility or programs that allow you to fix or modify your computer. An example would be anti-malware software.
 Operating systems manage the programs and data storage of the computer and example would be UNIX or Linux.
+
+TO create a directory on windows I used the cmd comand to get to the powershell window, then I did a mkdir and the directory name this created the directory then I did a dir a nd saw that I created it it.
 #### ERP
 ERP is defined as  an enterprise resource planning and is software that brings together an entire organization within one program such as financial software or inventory. An example is SAP.
 #### Virtualization
