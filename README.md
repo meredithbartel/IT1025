@@ -79,6 +79,12 @@ In a RGB color space, hex #ab0fff is composed of 67.1% red, 5.9% green and 100% 
 
 ### Software Development
 #### Algorithms
+A variable - spam ham and eggs are variable names often used in python on the Monte Python sketch. Similar to foo and bar in other languages. A variable is a name that holds values.
+An assignment statement  - when you assign a value to a variable.ma
+A function - A named section of code that performs a specific task
+Three data types - numeric, string, and list
+/i
+
 #### Object Oriented Concepts
 
 ### Database Systems
