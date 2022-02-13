@@ -25,6 +25,13 @@ Python is easy to learn and easy to use programming language that allows people 
 Python1.jpg a python program that prints hello Meredith
 Python2.jpg this program adds two variables together and sums them and then prints them along with my name.
 #### Graphic Modeling and Rendering
+raster-is a picture made up of thousands of pixels, when zoomed in on the pixels become apparent. you would use raster if you wanted to display a photograph.
+vector-a vector is an image that is created geometricaly. No matter how much you zoom in or out it does not pixelate. it is typically used in profesional design settings.
+lossless-it is when you save the file all origianal data is preserved.
+lossy-when you save the data and the data is compressed some data is lost but it is a smaller file. Web developers may not need an image to be high quality and are okay with a less quality picture.
+jpeg- they are photos notably with no high contrast. they are also screenshots of different things.
+png- it is illustrations,line art, photos with high contrast, and aplication screenshots.
+gif- imagage with gradiants and photos.
 #### File Compression
 #### Artificial Intelligence
 
