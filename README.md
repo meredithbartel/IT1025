@@ -70,8 +70,19 @@ hexadecimal- base 16 each position holds from 0 to F characters. each position a
 In a RGB color space, hex #ab0fff is composed of 67.1% red, 5.9% green and 100% blue. The color is purple-ish. This color would not be a good color for readability of for people with certain color blindnesses. The best colors to start with are block or white. The more vibrant your color is the bigger the font.
 ### Networking
 #### Data Transmission
+Packet - Unit of data 
+Packet-Switching - Technology that allows packets of data to be routed based on destination address 
+IP Address - Unique identifying number 
+DNS - Directory of IP address common names.  For example 54.239.26.214 might be the IP address of amazon.com
+Protocol - Set of rules to allow devices to communicate 
+
 #### Hardware
+Hub- connects an internal network together and transmits all data to all computer within its network.
+switch-connects an internal network together an only transmits data to another the intended computer, a sitch is better than a hub because it only sends intended data to intended machines
+router - connects the outside world to an internal network accepts only data from data with internal to the network ip adresses. routers are better than switches because it can receive external to the network data
 #### Topologies and Types of Networks
+single point of failure happen when a computer or a cable breaks and computers are no longer be able to speak to eachother this often happens in ring topography and bus topography and is unlikly to happen to a mesh, or star topography
+Infrastructure Topology uses a switch to connect wired devices a single device can go down and the other devices will still be able to talk with one another and wireless Mesh allows wireless devices to communicates to the next closest wireless conecter.
 #### Protocols
 
 ### Cybersecurity and Encryption
