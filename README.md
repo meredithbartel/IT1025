@@ -68,7 +68,8 @@ hexadecimal- base 16 each position holds from 0 to F characters. each position a
 3DecimalConversion.png it is a file that converts a decimal 198 to bianary.
 4BinaryConversion.png it is a file that converts bianary to a number.
 In a RGB color space, hex #ab0fff is composed of 67.1% red, 5.9% green and 100% blue. The color is purple-ish. This color would not be a good color for readability of for people with certain color blindnesses. The best colors to start with are block or white. The more vibrant your color is the bigger the font.
-### Networking
+### Networking Design
+NetworkDesign.pdf I have created a star topography where indivisual devices co
 #### Data Transmission
 Packet - Unit of data 
 Packet-Switching - Technology that allows packets of data to be routed based on destination address 
@@ -84,7 +85,10 @@ router - connects the outside world to an internal network accepts only data fro
 single point of failure happen when a computer or a cable breaks and computers are no longer be able to speak to eachother this often happens in ring topography and bus topography and is unlikly to happen to a mesh, or star topography
 Infrastructure Topology uses a switch to connect wired devices a single device can go down and the other devices will still be able to talk with one another and wireless Mesh allows wireless devices to communicates to the next closest wireless conecter.
 #### Protocols
-
+the primary purpose of a protocal are to do the following functions 
+Communication - allows networks and devices to talk to one another
+Network management defines procedures for network managment to effectively operate
+Security works to ensre that data being passed is both secured and protected
 ### Cybersecurity and Encryption
 #### Security Triad
 #### Caesar and Polyalphabetic Ciphers
@@ -101,7 +105,6 @@ A variable - spam ham and eggs are variable names often used in python on the Mo
 An assignment statement  - when you assign a value to a variable.ma
 A function - A named section of code that performs a specific task
 Three data types - numeric, string, and list
-/i
 
 #### Object Oriented Concepts
 
