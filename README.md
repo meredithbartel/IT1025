@@ -91,10 +91,18 @@ Network management defines procedures for network managment to effectively opera
 Security works to ensre that data being passed is both secured and protected
 ### Cybersecurity and Encryption
 #### Security Triad
-#### Caesar and Polyalphabetic Ciphers
-#### Public and Private Key Encryption
-#### Brute-Force Attacks
+Confidentiality is protected information and is part of the security triad. This would be important for my chart because you do not want the wrong eyes to see your personal information.
 
+Integrity is what you see is what is meant to be seen. This would be important to mychart because you want to know that what you are seeing is true. If the doctors say that you are dying and you are not dying that would be pretty important. It is so you can trust what mychart says.
+
+Availability is data reliability, it is where data is reliably available. If you were looking for information for mychart you want to be able to get data when you want it.
+
+#### Caesar and Polyalphabetic Ciphers
+a Cesar cipher does a one time letter shift it is easy to decipher by letter distribution where a polyalphabetic cipher is any cipher based on substitution using multiple substitution alphabets therefore it becomes almost impossible to see the letter shifting and it becomes hard to crack
+#### Public and Private Key Encryption
+public key encryption is a set of rules that everybody knows and it is public however when two individuals whole different pieces that are private that they share with one another that one combined makes it impossible to crack because the reverse engineering is extremely difficult so it is hard to intercept.
+#### Brute-Force Attacks
+to protect against brute force attack The user should use long unique passwords it also said to use secure about deck top connections as much as possible and the final way is to use two factor authentication.
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
