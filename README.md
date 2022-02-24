@@ -90,8 +90,15 @@ Communication - allows networks and devices to talk to one another
 Network management defines procedures for network managment to effectively operate
 Security works to ensre that data being passed is both secured and protected
 
+HTTP also known as hypertext transfer protocol is basically the language for web pages. It models a client server because the user acts as  the client and the webpage acts as the back end server.
+
+SSL and TSL are secure ways to protect http by requiring the server to send a certificate to prove its authenticity. TSL is a higher version of SSL and it requires even more authentication.
+
 ### IP address 
 IP address Is short for Internet protocol address basically is a number is assigned to each computer or device and when computers talk to each other they look for each other‘s IP address and the IP address receives in sends packets to one another.
+
+IP4 was developed in the 1980s with 4 billion unique IP addresses given to devices but this quickly fills up which is why they developed IP6. IP6 was developed in the late 90s and is significantly larger than the IP4 the ip6  is large enough to allow each person to have 1 trillion IP addresses.
+
 ### ICANN
 Icann is the company that distributes IP addresses in a stable and secure way, this coordination helps us to have a global Internet. Icann does not control content but it does help with the Internet naming system.
 ### Cybersecurity and Encryption
