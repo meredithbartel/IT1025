@@ -89,6 +89,11 @@ the primary purpose of a protocal are to do the following functions
 Communication - allows networks and devices to talk to one another
 Network management defines procedures for network managment to effectively operate
 Security works to ensre that data being passed is both secured and protected
+
+### IP address 
+IP address Is short for Internet protocol address basically is a number is assigned to each computer or device and when computers talk to each other they look for each other‘s IP address and the IP address receives in sends packets to one another.
+### ICANN
+Icann is the company that distributes IP addresses in a stable and secure way, this coordination helps us to have a global Internet. Icann does not control content but it does help with the Internet naming system.
 ### Cybersecurity and Encryption
 #### Security Triad
 Confidentiality is protected information and is part of the security triad. This would be important for my chart because you do not want the wrong eyes to see your personal information.
