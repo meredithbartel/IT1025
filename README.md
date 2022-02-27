@@ -118,7 +118,8 @@ to protect against brute force attack The user should use long unique passwords 
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
-
+Tim Berners-lee is the inventor of the world wide web. He invented it in 1989. The W3C means the World Wide Web Consortium creates standards to ensure the success and long-term growth of the Web.
+Web of devices ensures a standard so that any device can access the internet whether it be a computer, phone, car, printer etc.
 ### Software Development
 #### Algorithms
 A variable - spam ham and eggs are variable names often used in python on the Monte Python sketch. Similar to foo and bar in other languages. A variable is a name that holds values.
