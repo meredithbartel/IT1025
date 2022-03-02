@@ -34,7 +34,8 @@ png- it is illustrations,line art, photos with high contrast, and aplication scr
 gif- imagage with gradiants and photos.
 #### File Compression
 File compression is a way to organize A bunch of data and one directory that compresses it to save space. This is especially helpful when you want to send a compressed file so that it can download faster.
-
+The SVGGraphic.svg file was 10.4 kb and then after compressing it became 7.23 kb. 
+Jpegs and zips would probably be similer in size because jpegs are already compressed. 
 #### Artificial Intelligence
 
 ### Career Exploration
