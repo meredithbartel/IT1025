@@ -33,6 +33,8 @@ jpeg- they are photos notably with no high contrast. they are also screenshots o
 png- it is illustrations,line art, photos with high contrast, and aplication screenshots.
 gif- imagage with gradiants and photos.
 #### File Compression
+File compression is a way to organize A bunch of data and one directory that compresses it to save space. This is especially helpful when you want to send a compressed file so that it can download faster.
+
 #### Artificial Intelligence
 
 ### Career Exploration
