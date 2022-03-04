@@ -114,6 +114,9 @@ Availability is data reliability, it is where data is reliably available. If you
 
 #### Caesar and Polyalphabetic Ciphers
 a Cesar cipher does a one time letter shift it is easy to decipher by letter distribution where a polyalphabetic cipher is any cipher based on substitution using multiple substitution alphabets therefore it becomes almost impossible to see the letter shifting and it becomes hard to crack
+
+xvmg lew e gcfiv wigyvmxc givxmjmgexi
+
 #### Public and Private Key Encryption
 public key encryption is a set of rules that everybody knows and it is public however when two individuals whole different pieces that are private that they share with one another that one combined makes it impossible to crack because the reverse engineering is extremely difficult so it is hard to intercept.
 #### Brute-Force Attacks
