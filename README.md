@@ -139,7 +139,11 @@ A function - A named section of code that performs a specific task
 Three data types - numeric, string, and list
 
 #### Object Oriented Concepts
-
+The attributes of the shark class is name, swim, and be_awesome These are the things that a shark class can do.
+The methods of the shark class are swim, and be_awesome. The methods are the actions within a class.
+the contstructors intitialize the variables within the class to set it up
+a class is a group of variables and methods that encapsulates the code.
+an object is creating a variable to the class and instantiating an object is creating a variable as a class and calling its contructor.
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
 #### Data and Business Decisions
