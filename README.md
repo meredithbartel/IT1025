@@ -151,6 +151,10 @@ an object is creating a variable to the class and instantiating an object is cre
 In this shark class, the way you  instantiated is by creating a new version of shark. I think of it as creating a new box of code called shark that has its own name. For example, in the program I  instantiated  three new sharks called sammy, stevie, meredith. This is an example of instantiation sammy = Shark("Sammy")
 
 inheritance- classes can have children. children inherit all of the attributes and methods out of the parent class.I could creat a child class called hammer headsharks which can inherit everything out of shark but also have unique methods and attributes related to hammer heads.
+
+### UML
+I created a UML class diagram for shark in the diagram I inclueded the attributes in the middle section and the methods in the end section.
+
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
 #### Data and Business Decisions
