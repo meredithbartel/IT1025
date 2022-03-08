@@ -48,7 +48,7 @@ Cybersecurity Analyst (CySA+) is an IT workforce certification that applies beha
 Cisco Certifications are the list of the Certifications offered by Cisco Systems. Earning the CISSP proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program.
 computer networking seems kind of interesting to me.
 #### Industry Associations and Student Organizations
-he mission of the Collegiate Cyber Defense Competition (CCDC) system is to provide institutions with an information assurance or computer security curriculum a controlled, competitive environment to assess their student's depth of understanding and operational competency in managing the challenges inherent in protecting a corporate network infrastructure and business information systems.A membership here would be benifical so I could network to like-minded people.
+The mission of the Collegiate Cyber Defense Competition (CCDC) system is to provide institutions with an information assurance or computer security curriculum a controlled, competitive environment to assess their student's depth of understanding and operational competency in managing the challenges inherent in protecting a corporate network infrastructure and business information systems.A membership here would be benifical so I could network to like-minded people.
 ### Computer Architecture
 #### CPU
 The CPU is the central processing unit or the controller of the computer; it receives commands from the RAM and executes them. The CPU then signals the ALU Arithmetic Logic unit Which performs the mathematical additions or the comparison flags. After the calculations are made the ALU sands the information back to the CPU via the bus to process the next instruction. 
@@ -85,10 +85,10 @@ Hub- connects an internal network together and transmits all data to all compute
 switch-connects an internal network together an only transmits data to another the intended computer, a sitch is better than a hub because it only sends intended data to intended machines
 router - connects the outside world to an internal network accepts only data from data with internal to the network ip adresses. routers are better than switches because it can receive external to the network data
 #### Topologies and Types of Networks
-single point of failure happen when a computer or a cable breaks and computers are no longer be able to speak to eachother this often happens in ring topography and bus topography and is unlikly to happen to a mesh, or star topography
+Single point of failure happen when a computer or a cable breaks and computers are no longer be able to speak to eachother this often happens in ring topography and bus topography and is unlikly to happen to a mesh, or star topography
 Infrastructure Topology uses a switch to connect wired devices a single device can go down and the other devices will still be able to talk with one another and wireless Mesh allows wireless devices to communicates to the next closest wireless conecter.
 #### Protocols
-the primary purpose of a protocal are to do the following functions 
+The primary purpose of a protocal are to do the following functions 
 Communication - allows networks and devices to talk to one another
 Network management defines procedures for network managment to effectively operate
 Security works to ensre that data being passed is both secured and protected
@@ -113,14 +113,14 @@ Integrity is what you see is what is meant to be seen. This would be important t
 Availability is data reliability, it is where data is reliably available. If you were looking for information for mychart you want to be able to get data when you want it.
 
 #### Caesar and Polyalphabetic Ciphers
-a Cesar cipher does a one time letter shift it is easy to decipher by letter distribution where a polyalphabetic cipher is any cipher based on substitution using multiple substitution alphabets therefore it becomes almost impossible to see the letter shifting and it becomes hard to crack
+A Cesar cipher does a one time letter shift it is easy to decipher by letter distribution where a polyalphabetic cipher is any cipher based on substitution using multiple substitution alphabets therefore it becomes almost impossible to see the letter shifting and it becomes hard to crack.
 
 xvmg lew e gcfiv wigyvmxc givxmjmgexi
 
 #### Public and Private Key Encryption
-public key encryption is a set of rules that everybody knows and it is public however when two individuals whole different pieces that are private that they share with one another that one combined makes it impossible to crack because the reverse engineering is extremely difficult so it is hard to intercept.
+Public key encryption is a set of rules that everybody knows and it is public however when two individuals whole different pieces that are private that they share with one another that one combined makes it impossible to crack because the reverse engineering is extremely difficult so it is hard to intercept.
 #### Brute-Force Attacks
-to protect against brute force attack The user should use long unique passwords it also said to use secure about deck top connections as much as possible and the final way is to use two factor authentication.
+To protect against brute force attack The user should use long unique passwords it also said to use secure about deck top connections as much as possible and the final way is to use two factor authentication.
 ### Internet Programming
 #### Components of a URL
 Terms: 
