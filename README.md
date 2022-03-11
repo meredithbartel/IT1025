@@ -166,7 +166,9 @@ Velocity the speed that the data is generated
 Variability inconsistency in data times
 
 #### Data and Business Decisions
-#### The relational model and Normalization
+#### The Relational Model and Normalization
+Primary keys are keys in tables that make the record unique where foreign keys are keys in secondary tables that help to relate the data to the keys in the primary table. For example the primary key might be delivery trucks and the foreign keys in the truck service table would contain keys that relate to the truck table. Normalization is necessary to removing redundancy. For example you would not repeat the truck name in the truck service table.
+
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
