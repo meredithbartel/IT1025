@@ -157,6 +157,14 @@ I created a UML class diagram for shark in the diagram I inclueded the attribute
 
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
+SQL is defined as structured query language and is a relational databases within the databases are tables and column the are interrelated. SQL databases only scale vertically and can only grow so big. NoSQL scales horizontally and can grow infinitely large. NoSQL contain keys but no unstructured data. Querying data and expecting structured consistent data is not as feasible. 
+
+Big data is defined as huge amounts of data that can grow exponentially. The data is so large that traditional methods of data retrieval cant handle it. An example of big data is the New York stock exchange where the data grow exponentially. The four Vs that define big data are:
+Volume the amount of data 
+Variety the different types of data such as structure data, semi structure and unstructure 
+Velocity the speed that the data is generated 
+Variability inconsistency in data times
+
 #### Data and Business Decisions
 #### The relational model and Normalization
 #### SQL Injections
