@@ -131,6 +131,13 @@ default pageno file path provided
 Parameters - result of search
 anchor -specific location on page
 
+Scheme example- http
+Domain example- www.amazon.com
+top level domain- .org .gov .com
+parameters- ?name ?address  
+anchor- #middleofpage
+
+
 #### World Wide Web Consortium
 Tim Berners-lee is the inventor of the world wide web. He invented it in 1989. The W3C means the World Wide Web Consortium creates standards to ensure the success and long-term growth of the Web.
 Web of devices ensures a standard so that any device can access the internet whether it be a computer, phone, car, printer etc.
