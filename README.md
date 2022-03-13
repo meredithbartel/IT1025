@@ -173,6 +173,12 @@ Primary keys are keys in tables that make the record unique where foreign keys a
 SQL Injections are placements of malicious sql code in order to access the database via web pages. To reduce the risk of SQL injections you should put all values into parameters to stop unintentional queries. 
 
 ### Legal and Ethical Responsibilities in Computing
+Code of ethics is a set of moral principles to live by. In the age of computing which is ever evolving and changing  have creative dilemmas that I have necessitated aneed for ethical standards. Association for Computing Machinery is an organization and is committed to creating ethical standards in computing. They have created 24 statements of personal responsibility
+
+The concept behind trademarks is to protect the consumer it helps the consumer to identify the goods or services purchased from a specific store. Trademarks are a way  for an organization to distinguish a word, phrase, or a logo being used in the business. Copyrights protect creators of software against copying.
+
+
+COPPA, protect children under the age of 13 protecting them from unwanted gathering of information FERPA protects the privacy of the students education record and HIPPA protects the privacy of healthcare related records. These agencies are designed to create strict guidelines on the information which can be collected about people.
 
 ## Conclusion
 To be completed in the last module of the semester.
